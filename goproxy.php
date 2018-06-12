@@ -1,7 +1,7 @@
 <?php
 
 $__version__  = '3.1.2';
-$__password__ = ''; //连接密码，例如：$__password__ = 'gunduzi';
+$__password__ = '15202128'; //连接密码，例如：$__password__ = 'gunduzi';
 $__hostsdeny__ = array(); // 禁止访问的网站，例如：$__hostsdeny__ = array('.youtube.com', '.youku.com');
 $__content_type__ = 'image/gif';
 $__timeout__ = 20;
